@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729178517770",
+    "project_id": "student-locker-ccedf",
+    "storage_bucket": "student-locker-ccedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729178517770:android:d11939b190924a4bbd0af3",
+        "android_client_info": {
+          "package_name": "com.example.student_locker6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VGdm_k0B9-Co69_7ycVJc4DuYk2m4V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
